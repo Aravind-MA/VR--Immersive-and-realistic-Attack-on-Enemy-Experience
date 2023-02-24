@@ -74,7 +74,7 @@ void ASecondaryPlayer::BeginPlay()
 	//collision respone 
 	Rocketbody->SetCollisionResponseToChannel(ECollisionChannel::ECC_Visibility, ECollisionResponse::ECR_Block);
 
-	
+
 }
 
 // Called every frame
