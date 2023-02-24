@@ -48,7 +48,7 @@ AEnemyActor::AEnemyActor():
 	AttackSphere = CreateDefaultSubobject<USphereComponent>(TEXT("AttackSphere"));
 	AttackSphere->SetupAttachment(GetRootComponent());
 
-	
+
 }
 
 // Called when the game starts or when spawned
