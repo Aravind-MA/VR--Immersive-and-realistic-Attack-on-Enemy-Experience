@@ -65,7 +65,6 @@ private:
 		class UMotionControllerComponent* LeftMC;
 
 
-
 	
 	//Shooting combat
 
