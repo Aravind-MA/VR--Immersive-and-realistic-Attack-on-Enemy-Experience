@@ -13,7 +13,6 @@ class UBullet_Hit_Interface : public UInterface
 	GENERATED_BODY()
 };
 
-
 /**
  * 
  */
