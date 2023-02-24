@@ -45,7 +45,7 @@ protected:
 	UFUNCTION(BlueprintImplementableEvent)
 		void HideHealthBar();
 
-	
+
 
 public:	
 	// Called every frame
