@@ -16,7 +16,6 @@ class VR_AI_PROGRAMING_API AEnergyWeapon : public AActor, public IBullet_Hit_Int
 public:	
 	// Sets default values for this actor's properties
 	AEnergyWeapon();
-
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
