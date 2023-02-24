@@ -83,7 +83,6 @@ void AVR_Character::BeginPlay()
 {
 	Super::BeginPlay();
 	
-	
 
 	
 	
