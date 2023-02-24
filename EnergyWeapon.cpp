@@ -39,6 +39,6 @@ void AEnergyWeapon::BulletHit_Implementation(FHitResult HitResult)
 	{
 		UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), ParticleFX_on_weapon, HitResult.Location, FRotator(0.f), true);//sound to play while firing
 	}
-	
+
 }
 
