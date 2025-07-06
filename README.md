@@ -1,10 +1,7 @@
 # VR--Immersive-and-realistic-Attack-on-Enemy-Experience
 
-The interaction & difference between the Opponent and the Opponent’s weapon by a pistol shot, hit, particle effects,
-sound effects, and Opponent's Health bar Widget
+The opponent and its body react to a pistol shot with accurate and realistic hit responses, including particle effects, sound effects, and changes to the health bar widget.
 
-"Documentation used": 
-                     [UE4 C++ Interfaces](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/GameplayArchitecture/Interfaces/),
-                     [LineTraceSingleByChannel](https://docs.unrealengine.com/5.0/en-US/API/Runtime/Engine/Engine/UWorld/LineTraceSingleByChannel/),
-                     [PlaySoundAtLocation](https://docs.unrealengine.com/5.0/en-US/API/Runtime/Engine/Kismet/UGameplayStatics/PlaySoundAtLocation/2/),
-                     [SpawnEmitterAtLocation](https://docs.unrealengine.com/4.27/en-US/API/Runtime/Engine/Kismet/UGameplayStatics/SpawnEmitterAtLocation/),
+Synchronized Niagara FX and Sound FX with animation notifies and widget blueprint logic for responsive damage feedback,
+
+Demo Reel: https://youtu.be/AU_U-FUYLIk
